@@ -17,7 +17,7 @@
 
 
   <!-- Unchanged Firefly projects -->
-  <project path="" name="android_firefly_5.1" />
+  <project path="" name="android_firefly_5.1" remote="gromlin" revision="fireprime" />
 
 
 </manifest>
