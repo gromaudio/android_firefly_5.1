@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="gromlin"
-           fetch="https://gromlin/ivan/" />
+           fetch="http://gromlin/ivan/" />
   <remote  name="gromaudio-github"
            fetch="git://github.com/gromaudio/" />
   <remote name="gromaudio-private"
