@@ -9,7 +9,8 @@
            fetch="ssh://git@github.com/gromaudio/" />
   <remote name="ivanzuy-github"
            fetch="https://github.com/ivanzuy/" />
-  <default remote="gromlin"
+  <default revision="refs/tags/android-5.1"
+           remote="gromlin"
            sync-j="4" />
 
   <!-- projects added Gromaudio -->
