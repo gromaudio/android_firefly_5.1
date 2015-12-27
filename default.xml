@@ -9,7 +9,7 @@
            fetch="ssh://git@github.com/gromaudio/" />
   <remote name="ivanzuy-github"
            fetch="https://github.com/ivanzuy/" />
-  <default revision="refs/tags/android-5.1"
+  <default revision="fireprime"
            remote="gromlin"
            sync-j="4" />
 
