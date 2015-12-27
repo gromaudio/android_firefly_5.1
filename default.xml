@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="gromlin"
+           fetch="https://gromlin/ivan/" />
+  <remote  name="gromaudio-github"
+           fetch="git://github.com/gromaudio/" />
+  <remote name="gromaudio-private"
+           fetch="ssh://git@github.com/gromaudio/" />
+  <remote name="ivanzuy-github"
+           fetch="https://github.com/ivanzuy/" />
+  <default remote="gromlin"
+           sync-j="4" />
+
+  <!-- projects added Gromaudio -->
+
+
+  <!-- Unchanged Firefly projects -->
+  <project path="" name="android_firefly_5.1" />
+
+
+</manifest>
