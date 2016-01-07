@@ -12,10 +12,10 @@
   <default sync-j="4" />
 
   <!-- projects added Gromaudio -->
-
+  <project path="android_gromaudio/system/vbased" name="android_system_vbased" revision="master" remote="gromaudio-github" />
 
   <!-- Unchanged Firefly projects -->
-  <project path="android_firefly" name="android_firefly_5.1.git" remote="gromlin" revision="fireprime" />
+  <project path="android_firefly" name="android_firefly_5.1.git" revision="vline_rk3128" remote="gromlin" />
 
 
 </manifest>
