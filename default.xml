@@ -18,6 +18,7 @@
   <project path="android_gromaudio/external/gromutils" name="android_external_gromutils" revision="master" remote="gromaudio-github" />
   <project path="android_gromaudio/external/aoap_test" name="android_external_aoaptest" revision="master" remote="gromaudio-github" />
   <project path="android_gromaudio/packages/apps/DashLinQ" name="vline_dashlinq.git" revision="master" remote="gromlin-denis" />
+  <project path="android_gromaudio/packages/apps/VLineService" name="vline_service.git" revision="master" remote="gromlin-denis" />
 
   <!-- Unchanged Firefly projects -->
   <project path="android_firefly" name="android_firefly_5.1.git" revision="vline_rk3128" remote="gromlin" />
