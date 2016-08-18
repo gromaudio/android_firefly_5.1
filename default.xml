@@ -9,8 +9,6 @@
            fetch="git://github.com/gromaudio/" />
   <remote name="gromaudio-private"
            fetch="ssh://git@github.com/gromaudio/" />
-  <remote name="ivanzuy-github"
-           fetch="https://github.com/ivanzuy/" />
   <default sync-j="4" />
 
   <!-- projects added Gromaudio -->
