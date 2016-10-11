@@ -2,11 +2,11 @@
 <manifest>
 
   <remote  name="gromlin"
-           fetch="http://gromlin/ivan/" />
+           fetch="ssh://git@gromlin/ivan/" />
   <remote  name="gromlin-denis"
-           fetch="http://gromlin/denis/" />
+           fetch="ssh://git@gromlin/denis/" />
   <remote  name="gromaudio-github"
-           fetch="git://github.com/gromaudio/" />
+           fetch="ssh://git@github.com/gromaudio/" />
   <remote name="gromaudio-private"
            fetch="ssh://git@github.com/gromaudio/" />
   <default sync-j="4" />
