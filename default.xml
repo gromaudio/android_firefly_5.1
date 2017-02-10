@@ -2,9 +2,9 @@
 <manifest>
 
   <remote  name="gromlin"
-           fetch="ssh://git@gromlin/ivan/" />
+           fetch="ssh://groms/volume1/git-repos" />
   <remote  name="gromlin-denis"
-           fetch="ssh://git@gromlin/denis/" />
+           fetch="ssh://groms/volume1/git-repos" />
   <remote  name="gromaudio-github"
            fetch="ssh://git@github.com/gromaudio/" />
   <remote name="gromaudio-private"
