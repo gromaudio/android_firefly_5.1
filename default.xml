@@ -9,7 +9,7 @@
            fetch="ssh://git@github.com/gromaudio/" />
   <remote name="gromaudio-private"
            fetch="ssh://git@github.com/gromaudio/" />
-  <default sync-j="1" />
+  <default sync-j="4" />
 
   <!-- projects added Gromaudio -->
   <project path="android_gromaudio/system/vbased" name="android_system_vbased" revision="master" remote="gromaudio-private" />
