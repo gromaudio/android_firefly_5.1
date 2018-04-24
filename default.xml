@@ -21,6 +21,7 @@
   
   <project path="android_gromaudio/external/apple_daemon" name="apple_daemon.git" revision="master" remote="gromlin" />
   <project path="android_gromaudio/external/libgrom_iap" name="libgrom_iap.git" revision="master" remote="gromlin" />
+  <project path="android_gromaudio/external/apple_airplay" name="apple_airplay.git" revision="master" remote="gromlin" />
 
   <!-- Unchanged Firefly projects -->
   <project path="android_firefly" name="android_firefly_5.1.git" revision="vline_rk3128" remote="gromlin" />
