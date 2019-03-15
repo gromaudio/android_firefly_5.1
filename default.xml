@@ -16,7 +16,17 @@
   <project path="android_gromaudio/external/gromutils" name="android_external_gromutils" revision="master" remote="gromaudio-github" />
   <project path="android_gromaudio/external/aoap_test" name="android_external_aoaptest" revision="master" remote="gromaudio-github" />
   <project path="android_gromaudio/external/apple_cp" name="android_external_appletest.git" revision="master" remote="gromaudio-private" />
+  
+  <!--
   <project path="android_gromaudio/packages/apps/DashLinQ" name="vline_dashlinq.git" revision="master" remote="gromlin-denis" />
+  -->
+  <project groups="vline" path="android_gromaudio/packages/apps/DashLinQ" name="vline_dashlinq.git" revision="master2" remote="gromlin">
+      <linkfile dest="android_firefly/packages/apps/DashLinQ/Android.mk" src="Android.mk"/>
+  </project>
+  <project groups="vline" path="android_gromaudio/packages/apps/DashLinQ-src" name="dashlinq.git" revision="prodbugfix3.0" upstream="prodbugfix3.0" remote="gromaudio-github">
+    <linkfile dest="android_firefly/packages/apps/DashLinQ/src" src="."/>
+  </project>
+  
   <project path="android_gromaudio/packages/apps/VLineLite" name="vlinelite.git" revision="develop" remote="gromaudio-github" />
   <project path="android_gromaudio/packages/apps/VLineService" name="vline_service.git" revision="master" remote="gromlin-denis" />
 
