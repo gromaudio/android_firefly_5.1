@@ -23,7 +23,9 @@
   <project groups="vline" path="android_gromaudio/packages/apps/DashLinQ-src" name="dashlinq.git" revision="develop" upstream="develop" remote="gromaudio-github">
     <linkfile dest="android_firefly/packages/apps/DashLinQ/src" src="."/>
   </project>
-  
+
+  <project groups="vline" path="android_gromaudio/packages/apps/Knob" name="knob_helper.git" revision="master" remote="gromaudio-github" />
+
   <project path="android_gromaudio/packages/apps/VLineLite" name="vlinelite.git" revision="develop" remote="gromaudio-github" />
   <project path="android_gromaudio/packages/apps/VLineService" name="vline_service.git" revision="master" remote="gromlin" />
 
