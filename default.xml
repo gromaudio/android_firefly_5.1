@@ -11,7 +11,7 @@
   <project path="android_gromaudio/system/vbased" name="android_system_vbased" revision="master" remote="gromaudio-github" />
   <project path="android_gromaudio/external/gromutils" name="android_external_gromutils" revision="master" remote="gromaudio-github" />
   <project path="android_gromaudio/external/aoap_test" name="android_external_aoaptest" revision="master" remote="gromaudio-github" />
-  <project path="android_gromaudio/external/apple_cp" name="android_external_appletest.git" revision="develop_mfi" remote="gromaudio-github" />
+  <project path="android_gromaudio/external/apple_cp" name="android_external_appletest.git" revision="develop_old" remote="gromaudio-github" />
 
   <!--
   <project path="android_gromaudio/packages/apps/DashLinQ" name="vline_dashlinq.git" revision="master" remote="gromlin" />
